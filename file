@@ -1,2 +1,5 @@
 #####
 add some content here
+def function() {
+   var x = 1
+}
